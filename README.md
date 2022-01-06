@@ -1,6 +1,3 @@
-# Full Art Template
+# Drag and drop the folder inside of the "fullart-main" folder into your existing Proximity template directory
 
-## Notes : This template works very well when using the command "art_source=NONE" and aligning the image yourself. Delete that command in the included BAT file if you want to use scryfall/something else anyway. Art source options are: SCRYFALL, LOCAL, BEST, NONE.
-
-### Credits
-WarpDandy + Chiliaxe's Master Templates + Meeple
+## For Proximity 0.5.4+
