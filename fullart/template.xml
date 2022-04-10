@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <Template name="fullart" author="WarpDandy and Meeple" width="3288" height="4488"
-          proximity_version="0.6.1"
+          proximity_version="0.6.2"
           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Proximity-Engine/Proximity/0.5.0/template.xsd">
     <Options>
@@ -12,9 +12,9 @@
             <EnumerationValue value="none"/>
         </Enumeration>
         <ToggleOption id="bottom_text_Outline" default="false"/>
-        <ToggleOption id="copyright" default="true"/>
+        <ToggleOption id="copyright" default="false"/>
         <ToggleOption id="flavor_text" default="true"/>
-        <ToggleOption id="flavor_bar" default="true"/>
+        <ToggleOption id="flavor_bar" default="false"/>
         <ToggleOption id="show_set_symbol" default="true"/>
         <StringOption id="set_symbol"/>
         <StringOption id="watermark"/>
